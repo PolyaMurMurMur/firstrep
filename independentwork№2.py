@@ -4,4 +4,4 @@ if a>b:
 elif b>a:
     print (a)
 elif a==b:
-    print ("ĞÀÂÍÛ")
+    print ("Ğ ĞĞ’ĞĞ«")
